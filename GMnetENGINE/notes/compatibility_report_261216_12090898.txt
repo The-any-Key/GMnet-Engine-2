@@ -1,0 +1,9 @@
+Converting GML script : ${project_dir}\objects\obj_dual_instance\Create_0.gml
+Converted string : line 4 : '"' -> "\""
+Converted string : line 5 : '"' -> "\""
+Converted string : line 18 : '"' -> "\""
+Converted string : line 19 : '"' -> "\""
+Converted string : line 33 : '"' -> "\""
+Converted string : line 33 : '"' -> "\""
+Converted string : line 33 : '"' -> "\""
+Converted string : line 33 : '"' -> "\""

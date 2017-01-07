@@ -1,0 +1,3 @@
+/// Clean
+instance_destroy();
+

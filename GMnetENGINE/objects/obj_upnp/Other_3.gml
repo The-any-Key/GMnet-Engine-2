@@ -1,0 +1,3 @@
+/// unload
+instance_destroy();
+
